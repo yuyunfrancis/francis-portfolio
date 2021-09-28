@@ -186,3 +186,9 @@ themeButton.addEventListener('click', () => {
     localStorage.setItem('selected-theme', getCurrentTheme())
     localStorage.setItem('selected-icon', getCurrentIcon())
 })
+
+const submitBtn = document.getElementById('submit-btn')
+
+function myFunction() {
+    submitBtn.submit();
+}
