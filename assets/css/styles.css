@@ -518,19 +518,19 @@ img {
 }
 
 .skills__html {
-  width: 65%;
+  width: 80%;
 }
 
 .skills__css {
-  width: 55%;
+  width: 75%;
 }
 
 .skills__js {
-  width: 50%;
+  width: 75%;
 }
 
 .skills__react {
-  width: 60%;
+  width: 75%;
 }
 
 .skills__node {
@@ -554,7 +554,7 @@ img {
 }
 
 .skills__illustrator {
-  width: 50%;
+  width: 70%;
 }
 
 .skills__close .skills__list {
