@@ -1048,6 +1048,10 @@ img {
     grid-column: initial;
   }
 
+  .footer__copy {
+    color: #fff;
+  }
+
   .home__img {
     order: 1;
     justify-self: center;
@@ -1099,6 +1103,10 @@ img {
   .main,
   .footer__container {
     padding: 0 1rem;
+  }
+
+  .footer__copy {
+    color: #fff;
   }
 
   .nav {
@@ -1294,5 +1302,9 @@ img {
 
   .contact__inputs {
     grid-template-columns: repeat(2, 1fr);
+  }
+
+  .footer__copy {
+    color: #fff;
   }
 }
